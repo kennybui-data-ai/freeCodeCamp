@@ -1,4 +1,4 @@
-# freeCodeCamp-b003k
-Free Code Camp - b003k Development Projects
+# freeCodeCamp
+Free Code Camp Front End Development Projects
 
-https://kennybui-data-ai.github.io/freeCodeCamp-b003k/
+https://kennybui-data-ai.github.io/freeCodeCamp/
