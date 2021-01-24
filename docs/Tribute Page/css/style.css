@@ -1,0 +1,38 @@
+body {
+  background-color: white;
+  background-image: url("https://github.com/b003k/freeCodeCamp-b003k/blob/master/docs/Tribute%20Page/Tribute%20Images/1280px-F1_logo.png?raw=true");
+  background-repeat: repeat;
+  font-family: "Mina";
+  background-size: 10% 3%;
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+#subtitle {
+  font-style: italic;
+  font-weight: bold;
+  color: #f98e1d;
+}
+
+img {
+  width: 100%;
+}
+
+figure {
+  border: 2px solid black;
+}
+
+#main-text {
+  color: #2a52be;
+}
+
+#main {
+  background: rgba(255, 255, 255, 0.9);
+}
+
+#main-body {
+  margin-top: 10px;
+}

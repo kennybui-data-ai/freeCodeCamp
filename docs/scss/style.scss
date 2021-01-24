@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro:300");
+
+body {
+  font-family: "Source Code Pro";
+  padding-top: 115px;
+  position: relative !important;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    padding-top: 115px;
+  }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+  body {
+    padding-top: 115px;
+  }
+}
+
+.blue-circle-border {
+  border-color: #2a52be;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+.smaller-image {
+  margin: 0;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.vertical-center {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
+
+#about {
+  padding: 20px 20px 20px 20px;
+  margin-bottom: 2px;
+}
+
+#portfolio {
+  background-color: #fffff0;
+  padding: 15px 30px 20px 30px;
+  margin-bottom: 2px;
+}
+
+#row1 {
+  margin-bottom: 20px;
+}
+
+#row2 {
+  margin-bottom: 20px;
+}
+
+#row3 {
+  margin-bottom: 20px;
+}
+
+.container {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#contact {
+  background-color: #d3d3d3;
+  padding: 15px 20px 20px 20px;
+}
+
+hr {
+  border-color: #000;
+  max-width: 75%;
+}
+
+#small-width {
+  max-width: 30%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa {
+  width: 50%;
+  font-size: 100px;
+  color: #ee9a17;
+  padding: 10px 0 10px 0;
+}
+
+footer {
+  padding: 5px 0 1px 0;
+  background-color: #2a52be;
+}
+
+.white {
+  color: #fff;
+}
